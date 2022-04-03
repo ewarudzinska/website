@@ -1,0 +1,22 @@
+/* Zawartość arkusza stylów dołączonego w osobnym pliku style.css */
+body {
+ background: gold;
+ margin: 40px;
+ font-size: 20px;
+}
+
+h1 {
+ font-family: Garamond; 
+ color: teal;
+}
+
+h2 {
+ font-family: 'Trebuchet MS';
+ color: deeppink;
+}
+
+p {
+ margin-top: 40px;
+ color: darkslategray;
+}
+ 
